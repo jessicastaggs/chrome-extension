@@ -108,7 +108,7 @@ Here are some planned improvements and new features I would love to add to this 
 
 3. Clone the repository. Use 'git clone' command followed by the repository URL to set up repository.
 
-4. Open Chrome and navigate to [chrome://extensions/.](chrome://extensions)
+4. Open Chrome and navigate to [chrome://extensions/.](chrome://extensions/)
 
 5. Enable "Developer mode" by toggling the switch in the top right corner.
 
